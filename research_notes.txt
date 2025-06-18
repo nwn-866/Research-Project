@@ -1,0 +1,23 @@
+1. try this for single poc for all factors - 
+ADF testing
+stationary - testing adf
+--- how to perform ADF test in SARIMA and suggest PQD values based on the results.
+--  weekly sum
+--  data 
+
+
+
+
+--- check stationary 
+
+--- seasonal diffrencing 
+
+--- lamda
+
+
+looks like I have missed climate data extraction for 
+POC_Code values missing in nsp_info:
+ {'ANI0111', 'BEN0163', 'COB0661', 'KUM0661', 'MAT1102', 'KUM0111', 'BEN0162'}
+ 
+ 
+ https://disc.gsfc.nasa.gov/information/data-in-action?title=Derive%20Wind%20Speed%20and%20Direction%20With%20MERRA-2%20Wind%20Components

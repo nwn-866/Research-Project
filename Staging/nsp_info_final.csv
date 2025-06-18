@@ -1,0 +1,54 @@
+POC_Code,NZTM_easting,NZTM_northing,Network,Island,Fuel_Code
+ARA2201,1873657.0,5721160.0,Taupo (Unison Networks),NI,Hydro
+ARG1101,1616836.0,5386748.0,Marlborough (Marlborough Lines),SI,Hydro
+ARI1101,1831834.0,5782895.0,Thames Valley (Powerco),NI,Hydro
+ARI1102,1831834.0,5782895.0,Thames Valley (Powerco),NI,Hydro
+ASB0661,1503869.0,5133912.0,Ashburton (Electricity Ashburton),SI,Hydro
+ATI2201,1863994.0,5746271.0,King Country (The Lines Company),NI,Hydro
+AVI2201,1390245.0,5051586.0,Waitaki (Network Waitaki),SI,Hydro
+BEN2202,1377144.0,5061473.0,Waitaki (Network Waitaki),SI,Hydro
+BPE0331,1824481.0,5537751.0,Manawatu (Powerco),NI,Wind
+BWK1101,1375377.0,4908483.0,Dunedin (Aurora Energy),SI,Hydro
+COL0661,1480658.0,5197735.0,Central Canterbury (Orion New Zealand),SI,Hydro
+CYD0331,1309790.0,4990370.0,Central Otago (Aurora Energy),SI,Hydro
+CYD2201,1309790.0,4990370.0,Central Otago (Aurora Energy),SI,Hydro
+EDG0331,1936285.0,5788677.0,Eastern Bay of Plenty (Horizon Energy),NI,Solar
+GOR0331,1284097.0,4885035.0,Southland (The Power Company),SI,Wind
+HWA1101,1712537.0,5619536.0,Taranaki (Powerco),NI,Hydro
+HWB0331,1404029.0,4918978.0,Dunedin (Aurora Energy),SI,Hydro
+HWB0331,1404029.0,4918978.0,Otago (OtagoNet JV),SI,Hydro
+KOE1101,1673614.0,6082721.0,Bay of Islands (Top Energy),NI,Solar
+KPO1101,1823029.0,5799542.0,Thames Valley (Powerco),NI,Hydro
+LTN0331,1823277.0,5523360.0,Manawatu (Powerco),NI,Wind
+LTN2201,1823277.0,5523360.0,Manawatu (Powerco),NI,Wind
+MAN2201,1153098.0,4943235.0,Southland (The Power Company),SI,Hydro
+MAT1101,1934456.0,5774722.0,Eastern Bay of Plenty (Horizon Energy),NI,Hydro
+MHO0331,1807281.0,5505363.0,Kapiti and Horowhenua (Electra),NI,Hydro
+MTI2201,1839802.0,5751482.0,King Country (The Lines Company),NI,Hydro
+NMA0331,1242677.0,4861547.0,Southland (The Power Company),SI,Wind
+NSY0331,1371044.0,5009253.0,Otago (OtagoNet JV),SI,Hydro
+OHA2201,1362883.0,5094304.0,South Canterbury (Alpine Energy),SI,Hydro
+OHB2201,1369516.0,5090545.0,Waitaki (Network Waitaki),SI,Hydro
+OHC2201,1375175.0,5086098.0,Waitaki (Network Waitaki),SI,Hydro
+OHK2201,1869462.0,5744408.0,Rotorua (Unison Networks),NI,Hydro
+ROT1101,1882790.0,5772814.0,Rotorua (Unison Networks),NI,Hydro
+ROX1101,1312313.0,4957442.0,Central Otago (Aurora Energy),SI,Hydro
+ROX2201,1312313.0,4957442.0,Central Otago (Aurora Energy),SI,Hydro
+RPO2201,1845189.0,5662388.0,King Country (The Lines Company),NI,Hydro
+STK0661,1620344.0,5426252.0,Tasman (Network Tasman),SI,Hydro
+TGA0331,1875930.0,5819779.0,Tauranga (Powerco),NI,Hydro
+TKA0111,1396471.0,5123459.0,South Canterbury (Alpine Energy),SI,Hydro
+TKB2201,1376922.0,5110445.0,South Canterbury (Alpine Energy),SI,Hydro
+TKU2201,1839960.0,5681601.0,King Country (The Lines Company),NI,Hydro
+TUI1101,1960528.0,5696630.0,Eastland (Eastland Network),NI,Hydro
+TWC2201,1835550.0,5529228.0,Manawatu (Powerco),NI,Wind
+TWH0331,1789809.0,5821033.0,Waikato (WEL Networks),NI,Wind
+WDV1101,1842684.0,5533314.0,Southern Hawke's Bay (Scanpower),NI,Wind
+WIL0331,1747405.0,5431065.0,Wellington (Wellington Electricity),NI,Wind
+WKM2201,1844481.0,5743971.0,King Country (The Lines Company),NI,Hydro
+WPA2201,1834680.0,5758417.0,Waipa (Waipa Networks),NI,Hydro
+WPG0331,1404006.0,4918940.0,Dunedin (Aurora Energy),SI,Hydro
+WTK0111,1396285.0,5048037.0,Waitaki (Network Waitaki),SI,Hydro
+WVY1101,1740109.0,5598256.0,Wanganui (Powerco),NI,Wind
+WWD1102,1739027.0,5427096.0,Wellington (Wellington Electricity),NI,Wind
+WWD1103,1739027.0,5427096.0,Wellington (Wellington Electricity),NI,Wind
