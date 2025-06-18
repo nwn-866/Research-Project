@@ -1,7 +1,7 @@
 # Research-Project
 MSc Research project - Renewable energy forecasting using SARIMA and ANN in New Zealand 
 
-### Appendix C: Repository File/Folder Overview
+### Appendix : Repository File/Folder Overview
 
 File / Folder	Description
 Input/Energy/	Raw energy generation files from EMI
